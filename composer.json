@@ -1,0 +1,15 @@
+{
+    "name": "emri99/gitlab-generic-api-client-models",
+    "description": "Models related to an API version for emri99/gitlab-generic-api-client",
+    "homepage": "https://github.com/emri99/gitlab-generic-api-client-models",
+    "keywords": ["gitlab", "api"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cyril MERY",
+            "email": "mery.cyril@gmail.com"
+        }
+    ],
+    "require": {}
+}
