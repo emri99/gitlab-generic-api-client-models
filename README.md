@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
-**This library is an optional complement of [gitlab-api-generic-client](https://github.com/emri99/gitlab-api-generic-client)** 
+**This library is an optional complement of [gitlab-generic-api-client](https://github.com/emri99/gitlab-generic-api-client)** 
 
 Models class supplied are empty class with PHPDoc to enable IDE completion.
 
